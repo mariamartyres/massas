@@ -1,0 +1,110 @@
+pizzaJson=[
+    {
+      id: 1,
+      name: 'Espaguete ao molho branco',
+      img: 'images/prato 13.jpeg',
+      price: [74.00, 83.00, 94.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Massa fina e delicada, coberta por um cremoso molho à base de creme de leite, queijo e noz-moscada, criando uma experiência suave e sofisticada.'
+    },
+    {
+      id: 2,
+      name: 'Penne quatro queijos',
+      img: 'images/prato 2.jpeg',
+      price: [56.00, 64.00, 72.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Massa al dente envolta em um molho cremoso de queijos selecionados, oferecendo um sabor rico e irresistível.'
+    },
+    {
+      id: 3,
+      name: 'Penne ao pesto',
+      img: 'images/prato 9.jpeg',
+      price: [59.00, 67.00, 75.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Uma explosão de frescor com massa al dente envolta em um molho aromático de manjericão, alho, azeite e pinoli, finalizado com parmesão.'
+    },
+    {
+      id: 4,
+      name: 'Espaguete á bolonhesa',
+      img: 'images/prato 14.jpeg',
+      price: [41.00, 49.00, 53.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Massa al dente acompanhada de um rico molho de carne moída, tomate e ervas, criando uma combinação clássica e saborosa.'
+    },
+    {
+      id: 5,
+      name: 'Fusilli ao bechamel',
+      img: 'images/prato 17.jpeg',
+      price: [40.00, 48.00, 52.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'O Fusilli é uma massa italiana de formato espiralado, que captura perfeitamente o molho cremoso bechamel, proporcionando uma experiência de sabor suave e envolvente em cada garfada.'
+    },
+    {
+      id: 6,
+      name: 'Nhoque com tomate seco',
+      img: 'images/prato 6.jpeg',
+      price: [55.00, 65.00, 75.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Nhoques de batata servidos com um molho vibrante de tomate seco, azeite de oliva e manjericão, criando uma combinação irresistível de sabores.'
+    },
+    {
+      id: 7,
+      name: 'Conchiglie ao bechamel',
+      img: 'images/prato 16.jpeg',
+      price: [60.00, 68.00, 74.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'As conchinhas de massa Conchiglie, com seu formato único, são ideais para abraçar o molho bechamel, criando uma combinação perfeita de textura e cremosidade a cada mordida.'
+    },
+    {
+      id: 8,
+      name: 'Espagute quatro queijos',
+      img: 'images/prato 15.jpeg',
+      price: [68.00, 76.00, 82.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Massa perfeitamente cozida envolta em um molho cremoso e rico, feito com uma mistura de queijos selecionados, que oferece uma explosão de sabor.'
+    },
+   {
+      id: 9,
+      name: 'Penne com manteiga e sálvia',
+      img: 'images/prato 10.jpeg',
+      price: [68.00, 76.00, 82.00],
+      sizes: [
+        '150g',
+        '230g',
+        '320g'
+      ],
+      description: 'Massa al dente delicadamente envolvida em manteiga dourada e aromática sálvia, criando uma combinação simples, mas cheia de sabor.'
+   }
+];
